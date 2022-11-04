@@ -40,14 +40,13 @@
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
                     <svg viewBox="0 0 651 192" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-16 w-auto text-gray-700 sm:h-20">
                         <g clip-path="url(#clip0)" fill="#EF3B2D">
-                        <img src="https://nqedfr.blogspot.com/2022/11/blog-post.html"
+                        <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHzgzjIBVIRuO0vCqYFzXa_V450myKYQHzJ5HtpFgrCfcQ5N3Wm0o1I17XgYfCMo07u4Ec8TLaJT5A3WEKYyw7fyY9LmY2kmJMPm45fs19EvPDvobL2ThaNzE5Qo6HQY6rzGyjfKCh77dsBsp1irQZocqLJ2raRyFn8Wbf5s1O-P3g6VoU6iRRR5YI/s500/Dise%C3%B1o_sin_t%C3%ADtulo-removebg-preview.png"
                                 l 80,80
                                 v -80
                                 h -40"/>
                         </g>
                     </svg>
                 </div>
-
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
                         <div class="p-6">
